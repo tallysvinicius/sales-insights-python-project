@@ -15,11 +15,12 @@ Este projeto realiza uma análise exploratória de dados (EDA) em um conjunto de
 - Matplotlib
 - Seaborn
 
-## 📈 Principais Insights
-- A região West gera a maior parte da receita, indicando forte desempenho comercial
-- Um único produto domina o faturamento total, sugerindo alta concentração em itens de maior valor
-- As vendas atingem pico nos meses de novembro e dezembro, evidenciando sazonalidade
-- A região South apresenta baixo desempenho, indicando oportunidade de crescimento
+## 📈 Principais Insights de Negócio
+
+- A região West concentra a maior parte da receita total, indicando forte presença de mercado
+- Existe sazonalidade clara com pico de vendas nos meses 11 e 12 (período de fim de ano)
+- Alta dependência de poucos produtos líderes, representando risco de concentração de receita
+- A região South apresenta baixo desempenho, sugerindo oportunidade de expansão comercial
 
 ## 📊 Visualização de Exemplo
 ![Gráfico de Vendas](images/grafico_vendas.png)
