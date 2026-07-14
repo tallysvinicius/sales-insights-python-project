@@ -23,7 +23,7 @@ Este projeto realiza uma análise exploratória de dados (EDA) em um conjunto de
 - A região South apresenta baixo desempenho, sugerindo oportunidade de expansão comercial
 
 ## 📊 Visualização de Exemplo
-![Gráfico de Vendas](images/grafico_vendas.png)
+![Gráfico de Vendas](images/vendas_regiao.png)
 
 ## 🚀 Como Executar o Projeto
 1. Clone o repositório
